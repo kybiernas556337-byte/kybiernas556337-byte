@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**kybiernas556337-byte/kybiernas556337-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.[# ✨ Hey there! I'm Kathyrine 💖
+# ✨ Hey there! I'm Kathyrine 💖
 
 <div align="center">
   
@@ -115,18 +112,4 @@ Feel free to reach out: **kathyrineybiernas@email.com**
   ✨ Fun Easter Egg for those who read the source code ✨
   If you're reading this, you're awesome! 
   Hit me up and mention "sparkles" for a special hello! 💫
--->
-Uploading README-updated.md…]()
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
